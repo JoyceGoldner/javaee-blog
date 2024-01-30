@@ -1,5 +1,5 @@
 <c3p0-config>
-	<!-- 数据库连接池配置信息 -->
+	<!--!数据库连接池配置信息*-->
 
     <!-- 数据库名称: myblog -->
     <!-- 数据库用户名字: root -->
@@ -18,4 +18,4 @@
         <property name="minPoolSize">20</property>
         <property name="maxPoolSize">50</property>
     </default-config>    
-</c3p0-config>
+</c3p0-config> 
